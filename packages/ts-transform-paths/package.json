@@ -1,5 +1,5 @@
 {
-  "name": "@zerollup/ts-transform-paths",
+  "name": "@kadeluxe/ts-transform-paths",
   "version": "1.7.18",
   "license": "MIT",
   "description": "Ts transform paths",
@@ -10,7 +10,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": "https://github.com/zerkalica/zerollup",
+  "repository": "https://github.com/Kadeluxe/zerollup",
   "bugs": {
     "url": "https://github.com/zerkalica/zerollup/issues"
   },
